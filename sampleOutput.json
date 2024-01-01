@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Times of Israel"
+      },
+      "author": null,
+      "title": "Israeli father and son gunned down and killed in terror shooting at Huwara carwash - The Times of Israel",
+      "description": "Medics declare Shay Silas Nigrekar, 60, and Aviad Nir, 28, dead at the scene in northern West Bank town; IDF launches manhunt, prepares for potential settler revenge attacks",
+      "url": "https://www.timesofisrael.com/two-israelis-critically-wounded-in-suspected-terror-shooting-in-huwara/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/08/WhatsApp-Image-2023-08-19-at-21.12.08-e1692470326258-1024x640.jpeg",
+      "publishedAt": "2023-08-19T18:22:30Z",
+      "content": "Two Israeli men, a father and son, were shot and killed in a terror attack in the northern West Bank town of Huwara on Saturday, the military and medics said.\r\nThe shooting occurred inside a carwash … [+4995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian staff reporter",
+      "title": "Cruise agrees to cut fleet of San Francisco robotaxis in half after crashes - The Guardian US",
+      "description": "State DMV asks for reduction after autonomous Cruise vehicle collided with unspecified emergency vehicle",
+      "url": "https://www.theguardian.com/us-news/2023/aug/19/cruise-halves-fleet-san-francisco-robotaxis",
+      "urlToImage": "https://i.guim.co.uk/img/media/2a54c16783bec2b39ed49b2740c965ea26f06094/0_370_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5133fffa52fe31d86696850dce13571",
+      "publishedAt": "2023-08-19T17:56:00Z",
+      "content": "General Motors Cruise autonomous vehicle unit has agreed to cut its fleet of San Francisco robotaxis in half as authorities investigate two recent crashes in the city.\r\nThe state department of motor … [+3921 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Gabe Hauari, Katie Delk, Mike Snider",
+      "title": "'Flesh-eating' bacteria Vibrio vulnificus bacteria kills 5 in Florida - USA TODAY",
+      "description": "A rare flesh-eating bacteria has killed at least five people in Florida this year, as well as three in Connecticut and New York.",
+      "url": "https://www.usatoday.com/story/news/nation/2023/08/19/flesh-eating-bacteria-vibrio-vulnificus-bacteria-kills-5-florida/70631024007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/-mm-/aa7cf9cd6dd8c5caf604f1aedc23d6ecdc3cf500/c=0-0-2341-1323/local/-/media/2015/06/25/USATODAY/USATODAY/635708424533886992-062515lagoon-water.jpg?width=2341&height=1323&fit=crop&format=pjpg&auto=webp",
+      "publishedAt": "2023-08-19T17:18:34Z",
+      "content": "<ul><li>Vibrio vulnificus, known as the flesh-eating bacteria, has killed 5 people in Florida this year, according to the state's health department.</li><li>Overall, at least a dozen people have died… [+7161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Isabel Vincent",
+      "title": "Hawaii official concerned with 'equity' delayed releasing water for more than 5 hours as wildfires raged: report - New York Post ",
+      "description": "An official who delayed the release of water during the deadly blaze on Maui believed equity needed to be discussed before distribution.",
+      "url": "https://nypost.com/2023/08/19/hawaii-official-worried-about-equity-over-water/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000025040608.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-08-19T16:24:00Z",
+  
+      "content": "Access to water should be predicated on “conversations about equity,” according to the Hawaii official under fire for delaying access to water during the Maui wildfires. \r\nM. Kaleo Manuel, former dep… [+2181 chars]"
+    }
+  ]
+}
